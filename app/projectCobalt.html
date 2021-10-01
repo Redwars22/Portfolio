@@ -68,7 +68,7 @@ LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS e LocalStorage
     </head>
     <body>
         <script>
-            var texto, caixaTexto;
+            var texto, caixaTexto, deletar;
             var sobre = ["Project Cobalt", "André Pereira Justiniano", "1.0.1"]
 
             function salvarTexto(){
@@ -88,12 +88,16 @@ LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS e LocalStorage
             }
 
             function deletarTexto(){
-              //Limpa todas as informações guardadas na memória
-              localStorage.removeItem('texto')
-              texto = ""
-              
-              //Esvazia a caixa de texto
-              document.getElementById("campoTexto").innerHTML = texto
+              //Exibe uma caixa de diálogo informando ao usuário
+              deletar = confirm("Você realmente deseja deletar o texto? ESSA AÇÃO É IRREVERSÍVEL!")
+              if(deletar){
+                  //Limpa todas as informações guardadas na memória
+                  localStorage.removeItem('texto')
+                  texto = ""
+
+                  //Esvazia a caixa de texto
+                  document.getElementById("campoTexto").innerHTML = texto
+              }
             }
           
             function infoAutor(){
