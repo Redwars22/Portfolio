@@ -1,0 +1,121 @@
+<!--
+AUTOR: ANDRÉ PEREIRA JUSTINIANO
+DATA DE CRIAÇÃO: 01/10/2021
+CODINOME: PROJECT COBALT
+DESCRIÇÃO: BLOCO DE NOTAS
+LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS e LocalStorage
+-->
+
+<!DOCTYPE html>
+    <head>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Stick+No+Bills:wght@300&display=swap');
+
+            button {
+                color: white;
+                border-radius: 10px;
+                border-width: 0px;
+                padding: 10px;
+                font-family: 'Stick No Bills', sans-serif;
+            }
+
+            .btn1 {
+                background-color: red;
+            }
+
+            .btn2 {
+                background-color: blueviolet;
+            }
+
+            .btn3 {
+                background-color: chocolate;
+            }
+
+            .btn4 {
+                background-color: darkgreen;
+            }
+
+            .btn5 {
+                background-color: lightseagreen;
+            }
+
+            .campoTexto {
+                border-radius: 10px;
+                border-width: 10px;
+                border-color:darkslategray;
+                font-family: 'Indie Flower', cursive;
+                font-size: 13pt;
+                font-weight: bold;
+            }
+
+            .blocoDeNotas {
+                padding-top: 10px;
+            }
+
+            body {
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWz3kO8RSs8CJP08ejVzuyMCuxxzzt1j6Ew&usqp=CAU');
+                background-size: cover;
+                font-family: 'Stick No Bills', sans-serif;
+            }
+
+            header {
+                background-color: rgba(3, 25, 66, 0.253);
+                width: 69%;
+                padding: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            var texto, caixaTexto;
+            var sobre = ["Project Cobalt", "André Pereira Justiniano", "1.0.1"]
+
+            function salvarTexto(){
+                //Obtém conteúdo da caixa de texto
+                texto = document.getElementById("campoTexto").value
+                //Salva localmente no dispositivo os dados obtidos
+                localStorage.setItem('texto', texto)
+            }
+
+            function abrirTexto(){
+                //Acessa informação guardado localmente no dispositivo
+                texto = localStorage.getItem('texto')
+
+                /*Substitui o conteúdo da caixa de texto com as
+                informações obtidas*/
+                document.getElementById("campoTexto").innerHTML = texto
+            }
+
+            function deletarTexto(){
+              //Limpa todas as informações guardadas na memória
+              localStorage.removeItem('texto')
+              texto = ""
+              
+              //Esvazia a caixa de texto
+              document.getElementById("campoTexto").innerHTML = texto
+            }
+          
+            function infoAutor(){
+              alert("Codinome " + sobre[0] + ", criado por " + sobre[1] + ". Versão " + sobre[2]);
+            }
+          
+            function caixaAjuda(){}
+        </script>
+        <center>
+            <header>
+                <h1>📒 PROJECT COBALT</h1>
+                <strong><p>Bloco de notas desenvolvido em JS, HTML e CSS usando localStorage</p></strong>
+                <button class="btn1" onClick="salvarTexto()">SALVAR</button>
+                <button class="btn2" onClick="abrirTexto()">ABRIR</button>
+                <button class="btn3" onClick="deletarTexto()">RESETAR</button>
+                <button class="btn4" onClick="">AJUDA</button>
+                <button class="btn5" onClick="">SOBRE</button>
+            </header>
+            <main>
+                <div class="blocoDeNotas">
+                    <textarea cols="110" rows="16" class="campoTexto" id="campoTexto"></textarea>
+                </div>
+            </main>
+        </center>
+    </body>
+</html>
