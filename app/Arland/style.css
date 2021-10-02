@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+
+.chatBox {
+  color: white;
+  background-color: #263238;
+  width: 80%;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 25px;
+  border-color: black;
+  text-align: left;
+}
+
+.escreverMensagem {
+  background-color: #263238;
+  border-radius: 10px;
+  /*width: 50%;
+  height: auto;*/
+  padding: 10px;
+  
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  /*background-image: url('https://images.unsplash.com/photo-1632201717104-b7c59bc026ee?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzMzEyNTMxMg&ixlib=rb-1.2.1&q=85');*/
+  background-image: url('https://images.unsplash.com/photo-1429892494097-cccc61109f58?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzMzEzMDc2OA&ixlib=rb-1.2.1&q=85');
+  background-size: cover;
+}
+
+.campoMensagem {
+  background-color: #263238;
+  font-family: Roboto, sans-serif;
+  border-width: 0px;
+  font-weight: bold;
+  border-radius: 5px;
+  color: red;
+  padding: 10px;
+}
+
+.campoMensagem:hover {
+  border-width: 2px;
+  border-color: red;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+a:hover {
+  font-size: 14pt;
+  text-decoration: underline;
+}
+
+button {
+  color: white;
+  font-weight: bold;
+  background-color: #FF1744;
+  border: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+button:hover {
+  color: white;
+  font-weight: bold;
+  background-color: #2979FF;
+  border: none;
+  width: 35px;
+  height: 35px;
+  padding: 5px;
+}
+
+strong {
+  color: white;
+}
