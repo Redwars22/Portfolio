@@ -79,6 +79,12 @@ DATA: 27/09/2021-->
       color: lightseagreen;
       text-decoration: underline;
     }
+    
+    .mudaTema {
+      border-radius: 50%;
+      border:none;
+      background-color: lightgray;
+    }
   </style>
   <script>
   </script>
@@ -139,7 +145,7 @@ DATA: 27/09/2021-->
           </td>
           <tr>
             <td>
-              <strong>CURSOS</strong></br>
+              <center><strong>CURSOS</strong></center></br>
               <ol>
                 <li>LOREM IPSUM</li>
                 <li>LOREM IPSUM</li>
@@ -157,6 +163,12 @@ DATA: 27/09/2021-->
         </tbody>
       </table>
     </main>
+    <footer>
+      <center>
+        <button onClick="mudarTema(0)" class="mudaTema">🔆</button>
+        <button onClick="mudarTema(1)" class="mudaTema">🌑</button>
+      </center>
+    </footer>
   </div>
 </body>
 </html>
