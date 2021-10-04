@@ -130,7 +130,9 @@ LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS e LocalStorage
               alert("Codinome " + sobre[0] + ", criado por " + sobre[1] + ". Versão " + sobre[2]);
             }
           
-            function caixaAjuda(){}
+            function caixaAjuda(){
+                alert(ajuda)
+            }
         </script>
         <center>
             <header>
@@ -139,8 +141,8 @@ LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS e LocalStorage
                 <button class="btn1" onClick="salvarTexto()">SALVAR</button>
                 <button class="btn2" onClick="abrirTexto()">ABRIR</button>
                 <button class="btn3" onClick="deletarTexto()">RESETAR</button>
-                <button class="btn4" onClick="">AJUDA</button>
-                <button class="btn5" onClick="">SOBRE</button>
+                <button class="btn4" onClick="caixaAjuda()">AJUDA</button>
+                <button class="btn5" onClick="infoAutor()">SOBRE</button>
             </header>
             <main>
                 <div class="blocoDeNotas">
