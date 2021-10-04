@@ -1,1 +1,170 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8"/>
+        <script>
+            //TAMANHOS E PROPRIEDADES
+            var width = 200;
+            var height = 320;
 
+            //SÉRIES POPULARES
+            var url2000 = "https://th.bing.com/th/id/OIP.ZExW8qxajDDFNC4Pcf6zYgHaKj?pid=ImgDet&rs=1";
+            var url2001 = "https://th.bing.com/th/id/OIP.4ydKWMILMhBkcdyhY9sexgHaLH?pid=ImgDet&rs=1";
+            var url2002 = "https://th.bing.com/th/id/OIP.CbrHc-CmTMLtyTXSKSZ3cQHaKC?pid=ImgDet&rs=1";
+            var url2003 = "https://th.bing.com/th/id/R.85c8b0809648bda7ade0ba41d510a453?rik=cKOkhOtVjcVFFA&pid=ImgRaw&r=0";
+            var url2004 = "https://th.bing.com/th/id/OIP.NWIUdVlhzFIBF6-guu0S1gHaKe?pid=ImgDet&rs=1";
+
+            function showPopularSeries()
+            {
+                document.write("<img class=\"thumb\" src=" + "\"" + url2000 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url2001 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url2002 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url2003 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url2004 + "\"" + "width=" + width + "px height=" + height +"px />");
+            }
+
+            //SÉRIES PRA VOCÊ
+            var url1000 = "https://image.tmdb.org/t/p/w185/nXcexy6PEfuLiBBSgrkIlZCtvym.jpg";
+            var url1001 = "https://th.bing.com/th/id/R.aad77fe3d2e210a7e2d87f8741915732?rik=cTybv%2fVr8dn7xg&pid=ImgRaw&r=0";
+            var url1002 = "https://th.bing.com/th/id/OIP.Dt5V70eh9YVv8xKmMlghGwHaK9?pid=ImgDet&rs=1";
+            var url1003 = "https://th.bing.com/th/id/R.6a017bf0ba2e6eaa1b7bfff28743f320?rik=KRhq1g2AXD1TdQ&pid=ImgRaw&r=0";
+            var url1004 = "https://external-preview.redd.it/EgPLTkOHlqWRe6SKo723-LNpipLoN3QgOMkXXnNWzBE.jpg?auto=webp&s=b7b12f1f5520e43fbbfc84cf90b3bda66574d0d5";
+
+            function showCustomSeries()
+            {
+                document.write("<img class=\"thumb\" src=" + "\"" + url1000 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url1001 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url1002 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url1003 + "\"" + "width=" + width + "px height=" + height +"px />");
+                document.write("<img class=\"thumb\" src=" + "\"" + url1004 + "\"" + "width=" + width + "px height=" + height +"px />");
+            }
+        </script>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Acme&family=Patrick+Hand&display=swap');
+
+            body {
+                color: white;
+                background-image: url("https://th.bing.com/th/id/R.c823c6e9b4b5cd77070087f0ef489603?rik=VHh1X8Atc3JxTw&pid=ImgRaw&r=0");
+                background-size: cover;
+                font-family: 'Patrick Hand', cursive;
+            }
+
+            .logo {
+                color: red;
+                font-family: 'Acme', sans-serif;
+                text-decoration: underline;
+                font-size: 50px;
+            }
+
+            a {
+                color: white;
+                padding: 4px;
+            }
+
+            a:link{ text-decoration: none;}
+            a:visited{ text-decoration: none;}
+            a:hover{ text-decoration: none; font-size: 20px;}
+            a:active{ text-decoration: none;}
+
+            .thumb {
+                border-width: 10px;
+                border-color: red;
+                border-radius: 20px;
+                padding: 8px;
+                opacity: 0.5;
+            }
+
+            .thumb:hover {
+                width:210px;
+                height:330px;
+                
+                z-index:999;
+                padding: 10px;
+                opacity: 1;
+            }
+
+            button {
+                color: white;
+                background-color: red;
+                border: none;
+                font-family: 'Patrick Hand', cursive;
+            }
+
+            header {
+                background-color: rgba(19, 16, 15, 0.50);
+            }
+
+            .profileID {
+                border-color: aliceblue;
+                border-width: 20px;
+                border-radius: 10px;
+
+            }
+
+            input {
+                background-color: black;
+                color: white;
+                border-radius: 5px;
+
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <center>
+                    <table>
+                        <tr>
+                            <td>
+                                <h1 class="logo">LEONFLIX</h1>
+                            </td>
+                            <td>
+                                <a href="">INÍCIO</a>
+                                <a href="">FAVORITOS</a>
+                                <a href="">MINHA LISTA</a>
+                                <a href="">CATEGORIAS</a>
+                                <a href="">SUPORTE E AJUDA</a>
+                            </td>
+                            <td>
+                                <input type="text"/>
+                                <button type="submit">🔎</button>
+                            </td>
+                            <td>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <b>Andrew</b>
+                                            <a href="">NÃO É VOCÊ?</a>
+                                        </td>
+                                        <td>
+                                            <img class="profileID" src="https://th.bing.com/th/id/OIP.rn27BprbcCju6wuJv59PyQHaHa?pid=ImgDet&rs=1" height="50px" width="50px"/>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button>SAIR</button>
+                                            <button>CONFIGURAÇÕES</button>
+                                        </td>
+                                    </tr>
+                                </table>
+                                
+                            </td>
+                        </tr>
+                    </table>
+            </center>
+        </header>
+        <main>
+            <center>
+                <h3>OS MELHORES FILMES E SÉRIES PARA VOCÊ</h3>
+                <script>
+                    showCustomSeries();
+                </script>
+                <hr width="75%"/>
+                <h3>FILMES E SÉRIES POPULARES</h3>
+                <script>
+                    showPopularSeries();
+                </script>
+            </center>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
