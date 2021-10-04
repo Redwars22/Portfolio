@@ -89,16 +89,6 @@ DATA: 27/09/2021-->
       font-size: 12pt;
     }
   </style>
-  <script>
-    function mudarTema(parametro){
-      if(parametro == 0){
-        console.log("TEMA CLARO!!!")
-        document.getElementById("content").style.background-color = 'red'
-      } else if(parametro == 1){
-        console.log("TEMA ESCURO!!!")
-      }
-    }
-  </script>
 </head>
 <body>
   <!--PORTFÓLIO, TAMANHO 50% DE LARGURA, BORDA COM RAIO 15 PÍXEIS-->
@@ -179,6 +169,16 @@ DATA: 27/09/2021-->
       <center>
         <button onClick="mudarTema(0)" class="mudaTema">🔆</button>
         <button onClick="mudarTema(1)" class="mudaTema">🌑</button>
+        <script>
+          function mudarTema(var parametro){
+            if(parametro == 0){
+              console.log("TEMA CLARO!!!")
+              document.getElementById("content").style.background-color = 'red'
+            } else if(parametro == 1){
+              console.log("TEMA ESCURO!!!")
+            }
+          }
+        </script>
       </center>
     </footer>
   </div>
