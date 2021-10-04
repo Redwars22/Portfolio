@@ -86,13 +86,14 @@ DATA: 27/09/2021-->
       background-color: lightgray;
       height: 50px;
       width: 50px;
+      font-size: 12pt;
     }
   </style>
   <script>
     function mudarTema(parametro){
       if(parametro == 0){
         console.log("TEMA CLARO!!!")
-        document.getElementById("content").style.background-color = "red"
+        document.getElementById("content").style.background-color = 'red'
       } else if(parametro == 1){
         console.log("TEMA ESCURO!!!")
       }
@@ -101,7 +102,7 @@ DATA: 27/09/2021-->
 </head>
 <body>
   <!--PORTFÓLIO, TAMANHO 50% DE LARGURA, BORDA COM RAIO 15 PÍXEIS-->
-  <div class="content">
+  <div id="content" class="content">
     <!--CABEÇALHO: NOME, DESCRIÇÃO, FOTO-->
     <header>
       <table>
