@@ -3,7 +3,7 @@ DATA: 27/09/2021-->
 
 <!DOCTYPE HTML>
 <head>
-  <title>💼 Portfólio</title>
+  <title>💼 Portfólio - André Pereira JUstiniano</title>
   <meta charset="UTF-8"/>
   <!--ESTILIZAÇÃO DA PÁGINA-->
   <style>
@@ -89,6 +89,14 @@ DATA: 27/09/2021-->
     }
   </style>
   <script>
+    function mudarTema(parametro){
+      if(parametro == 0){
+        console.log("TEMA CLARO!!!")
+        document.getElementById("content").style.background-color = "red"
+      } else if(parametro == 1){
+        console.log("TEMA ESCURO!!!")
+      }
+    }
   </script>
 </head>
 <body>
@@ -166,6 +174,7 @@ DATA: 27/09/2021-->
       </table>
     </main>
     <footer>
+      </br>
       <center>
         <button onClick="mudarTema(0)" class="mudaTema">🔆</button>
         <button onClick="mudarTema(1)" class="mudaTema">🌑</button>
