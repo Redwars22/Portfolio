@@ -79,3 +79,19 @@ button:hover {
 strong {
   color: white;
 }
+
+.chatAmigo {
+  border-radius: 7px;
+  background-color: #C62828;
+  padding: 10px;
+  height: auto;
+  width: 400px;
+}
+
+.chatVoce {
+  border-radius: 7px;
+  background-color: #039BE5;
+  padding: 10px;
+  height: auto;
+  width: 400px
+}
