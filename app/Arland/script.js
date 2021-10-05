@@ -1,7 +1,7 @@
 var nomeUsuario, nomeAmigo, mensagem, estruturaVoce, estruturaAmigo
 var sobre = "PROJECT ARLAND - criador de chat fake criado por André Pereira usando HTML, JS e CSS. " + 
-    "Versão 1.0.2. NOVIDADES NESTA VERSÃO: 1-Botão deletar chat, 2-Botão ajuda com instruções de uso." + 
-    " RECURSOS EM DESENVOLVIMENTO: Trocar nomes de usuário e interface de usuário mais intuitiva."
+    "Versão 1.0.8. NOVIDADES NESTA VERSÃO: Interface melhorada." + 
+    " RECURSOS EM DESENVOLVIMENTO: Trocar nomes de usuário."
 var ajuda = "Este é um site de chat falso. Assim que o abrir, você vai se deparar " + 
     "com uma caixa de diálogo perguntando pelo seu nome de usuário e o nome de usuário " + 
     "de outra pessa com a qual você estará conversando (Para ambos, você pode escolher qual quiser)." + 
@@ -21,10 +21,10 @@ function escreverMensagem(quem) {
   mensagem = document.getElementById("campoMensagem").value
   if (quem == 1) {
     document.getElementById("chatBox").innerHTML +=
-      estruturaVoce + mensagem + "</br>"
+      "<div class=\"chatVoce\">" + estruturaVoce + mensagem + "</br></div>"
   } else {
     document.getElementById("chatBox").innerHTML +=
-      estruturaAmigo + mensagem + "</br>"
+      "<div class=\"chatAmigo\">" + estruturaAmigo + mensagem + "</br></div>"
   }
 }
 
