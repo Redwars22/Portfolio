@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=Quicksand:wght@700&display=swap');
+
+header {
+  background-color: #1DE9B6;
+  color: white;
+  font-weight: bold;
+}
+
+.fotoPerfil {
+  border-radius: 50%;
+}
+
+.barraSuperior {
+  border-spacing: 20px;
+}
+
+table {
+  border-spacing: 25px;
+}
+
+.modulos {
+  background-color: #00ACC1;
+  color: white;
+}
+
+body {
+  font-family: 'Gemunu Libre', sans-serif;
+}
+
+.titulo {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.verAula {
+  color: white;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  width: 150px;
+  height: 40px;
+  font-size: 12pt;
+  background-color: #76FF03;
+  border: none;
+  border-radius: 10px;
+}
+
+.verAula:active, .verAula:hover {
+  background-color: black;
+}
+
+.videoAula {
+  background-image: url('https://img.olhardigital.com.br/wp-content/uploads/2019/03/20190322051919-1254x450.jpg');
+  background-size: cover;
+}
+
+.fecharAula {
+  color: white;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  width: 150px;
+  height: 40px;
+  font-size: 12pt;
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+}
+
+.fecharAula:active, .fecharAula:hover {
+  background-color: black;
+}
+
+a {
+  padding-right: 10px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #283593;
+  text-decoration: underline;
+  font-size: 12pt;
+}
+
+footer {
+  background-color: #1A237E;
+  color: white;
+}
