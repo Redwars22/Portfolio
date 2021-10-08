@@ -1,1 +1,141 @@
+<!--
+AUTOR: ANDRÉ PEREIRA JUSTINIANO
+DATA DE CRIAÇÃO: 07/10/2021
+CODINOME: PROJECT ASTORIA
+DESCRIÇÃO: SITE DE CURSOS FICTÍCIO
+LINGUAGENS/FERRAMENTAS EMPREGADAS: JS, HTML, CSS
+-->
 
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Project Astoria - Cursos Online</title>
+  </head>
+  <body>
+    <header>
+      <center>
+        <table class="barraSuperior">
+          <tr>
+            <td>
+              <img src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/lua-2-256.png" width="75px" height="75px">
+            </td>
+            <td>
+              <h1 class="titulo">Asteria</h1>
+            </td>
+            <td>
+              <a href="">INÍCIO</a>
+              <a href="">CURSOS</a>
+              <a href="">AJUDA</a>
+              <a href="https://Redwars22.github.io/Portfolio/">MAIS PROJETOS DESSE AUTOR</a>
+              <a href="/about.html">SOBRE</a>
+            </td>
+            <td>
+              <p id="nomeAluno">Nome_do_Estudante</p>
+            </td>
+            <td>
+              <img src="https://pbs.twimg.com/profile_images/3599793508/dd3fdd018397df1da35541066634a990.jpeg" height="50px" weight="50x" class="fotoPerfil">
+            </td>
+          </tr>
+        </table>
+      </center>
+    </header>
+    <main><center>
+      <div class="videoAula" id="videoAula"></div>
+      <div class="tituloModulos">
+        <h2>MÓDULOS DO CURSO</h2>
+      </div>
+      <div class="modulos">
+        <table>
+          <!--MÓDULO 1 DO CURSO -->
+          <tr>
+            <td>
+              <svg viewBox="0 0 448 512" width="30" title="bars">
+                <path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
+              </svg>
+              </br>
+              <h4>MÓDULO 1</h4>
+            </td>
+            <td>
+              <h4>O que você aprenderá neste módulo?</h4>
+              <em>
+                <ol>
+                  <li>Olá Mundo</li>
+                  <li>Comentários</li>
+                  <li>Números e Operadores Básicos</li>
+                </ol>
+              </em>
+            </td>
+            <td>
+              <button class="verAula" onclick="assistirAula(1)">VER AULA</button>
+            </td>
+          <tr>
+          <!-- MÓDULO 2 DO CURSO -->
+          <tr>
+            <td>
+              <svg viewBox="0 0 448 512" width="30" title="bars">
+                <path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
+              </svg>
+              </br>
+              <h4>MÓDULO 2</h4>
+            </td>
+            <td>
+              <h4>O que você aprenderá neste módulo?</h4>
+              <em>
+                <ol>
+                  <li>Variáveis</li>
+                  <li>Strings</li>
+                  <li>Concatenação</li>
+                </ol>
+              </em>
+            </td>
+            <td>
+              <button class="verAula" onclick="assistirAula(2)">VER AULA</button>
+            </td>
+          <tr>
+          <!-- MÓDULO 3 DO CURSO -->
+          <tr>
+            <td>
+              <svg viewBox="0 0 448 512" width="30" title="bars">
+                <path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
+              </svg>
+              </br>
+              <h4>MÓDULO 3</h4>
+            </td>
+            <td>
+              <h4>O que você aprenderá neste módulo?</h4>
+              <em>
+                <ol>
+                  <li>Boolean</li>
+                  <li>Strings</li>
+                  <li>Conversão para String</li>
+                </ol>
+              </em>
+            </td>
+            <td>
+              <button class="verAula" onclick="assistirAula(3)">VER AULA</button>
+            </td>
+          <tr>
+        </table>
+      </div>
+    </main>
+    </center>
+    <footer>
+      <table>
+        <tr>
+          <td>
+            <img src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/lua-2-256.png" width="75px" height="75px">
+            </td>
+            <td>
+              <h1 class="titulo">Asteria</h1>
+          </td>
+          <td>
+            <p>Project Asteria é um site de cursos fictício criado por André Pereira para praticar HTML, CSS e JS. </p>
+          </td>
+          <td>
+            <a href="https://redwars22.github.io/Portfolio/">VER MAIS PROJETOS DESTE AUTOR</a>
+          </td>
+        </tr>
+      </table>
+    </footer>
+  </body>
+</html>
