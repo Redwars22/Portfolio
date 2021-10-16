@@ -1,0 +1,30 @@
+<body>
+  <header>
+    <h3 align="center">🔢️ RandNum - Gerador de Números Aleatórios</h3>
+  </header>
+  <main>
+    <h1 align="center">{{ random }}</h1>
+    <br />
+    <div class="buttons">
+      <button (click)="generate(10)">NÚMERO ALEATÓRIO DE ATÉ 1 DÍGITO</button>
+      <button (click)="generate(100)">NÚMERO ALEATÓRIO DE ATÉ 2 DÍGITOS</button>
+      <button (click)="generate(1000)">
+        NÚMERO ALEATÓRIO DE ATÉ 3 DÍGITOS
+      </button>
+      <button (click)="generate(10000)">
+        NÚMERO ALEATÓRIO DE ATÉ 4 DÍGITOS
+      </button>
+    </div>
+  </main>
+  <footer>
+    <p align="center">
+      Desenvolvido por {{ author }} usando {{ techs }} e:
+      <br />
+      <img class="angularLogo" src="{{ anglogo }}" />
+      <br />
+      <a href="{{ website }}">MAIS PROJETOS DESTE AUTOR</a>
+      <br />
+      <a href="https://fonts.google.com/specimen/Share+Tech+Mono?query=tech">FONTE USADA NO SITE</a>
+    </p>
+  </footer>
+</body>
