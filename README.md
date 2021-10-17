@@ -12,7 +12,19 @@ if($language == "pt-br")
 }
 ```
 
+# Projects/Projetos
 
-#Projects/Projetos
+```php
+$intro_en-us = "Here are the links to the source code of my projets. I gave each one a codename.";
+$intro pt-br = "Aqui estão os links para o código de fonte dos meus projetos. Atribui um codinome a cada um deles.";
 
-#Other links/Outros links
+switch($lang){
+  case "pt-br":
+    echo $intro_pt-br;
+    break;
+  default:
+    echo $intro_en-us;
+}
+```
+
+# Other links/Outros links
