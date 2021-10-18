@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boletim Escolar</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Georama&display=swap" rel="stylesheet"> 
+</head>
+<body>
+  <header>
+    <center>
+      <h1>BOLETIM ESCOLAR</h1>
+      <em>Codinome "Project Horizon"</em>
+    </center>
+  </header>
+  <main>
+    <center>
+    <form action="boletim.php" method="POST">
+      <!-- TEMPLATE
+      <div class="campo">
+        <label for=""></label>
+        <input type="" name="" class="campoTexto">
+      </div>
+      -->
+      <table>
+        <tr>
+          <td>
+            <div class="campo">
+              <label>NOME DO ALUNO:</label>
+              <br>
+              <input type="text" name="nomeAluno" class="campoTexto">
+            </div>
+            <div class="campo">
+              <label>NOME DO COLÉGIO:</label>
+              <br>
+              <input type="text" name="nomeColegio" class="campoTexto">
+            </div>
+            <div class="campo">
+              <label>SÉRIE, CURSO, TURNO E TURMA</label>
+              <br>
+              <input type="text" name="turma" class="campoTexto">
+            </div>
+          </td>
+          <td>
+            <h3>NOTAS</h3>
+            <div class="campo">
+              <label>PORTUGUÊS</label>
+              <br>
+              <label>1º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="port1sem" class="campoNotas">
+              <label>2º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="port2sem" class="campoNotas">
+            </div>
+            <div class="campo">
+              <label>MATEMÁTICA</label>
+              <br>
+              <label>1º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="mat1sem" class="campoNotas">
+              <label>2º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="mat2sem" class="campoNotas">
+            </div>
+            <div class="campo">
+              <label>INGLÊS</label>
+              <br>
+              <label>1º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="ing1sem" class="campoNotas">
+              <label>2º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="ing2sem" class="campoNotas">
+            </div>
+            <div class="campo">
+              <label>ESPANHOL</label>
+              <br>
+              <label>1º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="esp1sem" class="campoNotas">
+              <label>2º SEMESTRE: </label>
+              <input type="number" min="0" max="100" name="esp2sem" class="campoNotas">
+            </div>
+          </td>
+        </tr>
+      </table>
+      <button type="submit">
+        GERAR BOLETIM
+      </button>
+    </form>
+    <div class="nav">
+      <a href="">CÓDIGO FONTE DESTE SITE</a>
+      <a href="https://redwars22.github.io/Portfolio/">MAIS PROJETOS</a>
+    </div>
+    <p>Criado por André Pereira usando HTML, PHP e CSS. Hospedado no servidor Replit.</p>
+    </center>
+  </main>
+  <footer></footer>
+</body>
+</html>
