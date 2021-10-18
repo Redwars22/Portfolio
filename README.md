@@ -32,6 +32,7 @@ switch($lang){
 - [Arland](https://github.com/Redwars22/Portfolio/tree/main/app/Arland)
 - [Asteria](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria)
 - [Cobalt](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html)
+- [Horizon](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon)
 - [Leonflix](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html)
 - [RandNum](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum)
 
