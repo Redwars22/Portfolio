@@ -4,6 +4,7 @@
 >Bem-vindo ao meu repositório principal no GitHub. Aqui você vai encontrar alguns projetos nos quais estive trabalhando para praticar e melhorar minhas habilidades de programação em HTML, JS, CSS, PHP e etc...
 
 ```php
+//WELCOME MESSAGE
 if($language == "pt-br")
 {
   echo "BEM-VINDO!!!";
@@ -15,6 +16,7 @@ if($language == "pt-br")
 # Projects/Projetos
 
 ```php
+//BILINGUAL DESCRIPTION
 $intro_en-us = "Here are the links to the source code of my projets. I gave each one a codename.";
 $intro pt-br = "Aqui estão os links para o código de fonte dos meus projetos. Atribui um codinome a cada um deles.";
 
@@ -27,4 +29,13 @@ switch($lang){
 }
 ```
 
+- [Arland](https://github.com/Redwars22/Portfolio/tree/main/app/Arland)
+- [Asteria](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria)
+- [Cobalt](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html)
+- [Leonflix](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html)
+- [RandNum](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum)
+
 # Other links/Outros links
+
+- [MY WEBSITE/MEU SITE](https://redwars22.github.io/Portfolio/)
+- [MY BLOG/MEU BLOG](https://redwars22blog.stackblitz.io/)
