@@ -35,6 +35,7 @@ switch($lang){
 - [Horizon](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon)
 - [Leonflix](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html)
 - [RandNum](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum)
+- [TrigonPHP](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP)
 
 # Other links/Outros links
 
