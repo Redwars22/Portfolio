@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - AutoOnibus</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<header></header>
+<main>
+  <center>
+  <h1>Gerador de Tabela Horária</h1>
+  <em>Gerador de tabela horária para ônibus e quaisquer meios de transporte!</em>
+  <div class="dataForm">
+    <p class="info">Insira o intervalo entre as partidas (número ente 1 e 60)</p>
+    <input type="text" placeholder="Ex: 33" id="timeBetween">
+    <p class="info">Insira a quantidade de partidas</p>
+    <input type="text" placeholder="Ex: 5" id="departures">
+    <p class="info">Insira o horario da primeira partida</p>
+    <input type="text" placeholder="Ex: 05" id="firstDepartureHour"> :
+    <input type="text" placeholder="Ex: 30" id="firstDepartureMinutes">
+    <br>
+    <button class="generate" onClick="generateTimetable()">GERAR</button>
+    <button class="reset" onClick="reset()">RESETAR</button>
+  </div>
+  <div class="showTimetable" id="showTimetable"></div>
+</main>
+</center>
+<footer></footer>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
