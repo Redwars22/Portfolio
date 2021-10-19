@@ -1,0 +1,54 @@
+body {
+  background-color: #020f1a;
+  color:black;
+  display: grid;
+  align-items: center;
+  font-family: 'Biryani', sans-serif;
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-cute-hand-drawn-style-mathematics-education-pink-plaid-background-image_337363.jpg');
+  background-size: cover;
+}
+
+header {
+  margin-top: 100px;
+}
+
+input {
+  background-color: #192b61;
+  border-radius: 10px;
+  color: white;
+  width: 100px;
+  height: 35px;
+  font-size: 17;
+  font-weight: bolder;
+  text-align: center;
+  border: none;
+  margin-left: 15px;
+}
+
+label {
+  color: black;
+}
+
+button {
+  background-color: #192b61;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  width: 100px;
+  height: 35px;
+  font-size: 1rem;
+  margin: 45px 0 0 15px;
+}
+
+button:hover {
+  background-color: #0040ff;
+}
+
+h1 {
+  color: #0040ff;
+}
+
+a {
+  color: red;
+  margin: 5px 10px 5px 10px;
+}
