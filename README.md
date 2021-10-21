@@ -25,6 +25,13 @@ if($language == "pt-br")
 ![image](https://user-images.githubusercontent.com/26885598/138197039-a0b1bf8a-29c2-4bf5-b18b-8d3f58a6cec5.png)
 Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
   
+CHANGELOG/MUDANÇAS
+- A more responsive UI. The app now looks good either in mobile or in desktop./Uma IU mais responsiva. Agora o app tem uma ótima aparência tanto em dispositivos móveis quando desktop.
+- New background: it now shows an animation instead of a static color./Novo plano de fundo: agora é exibida uma animação em vez de uma cor estática.
+- 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!
+  
+  <em>In this stage, it's almost ready to be released pubicly as a beta version. Neste estágio, está quase pronto para ser lançado publicamente como uma versão beta.</em>
+  
 [VERSÃO ALPHA/ALPHA VERSION](https://angularmusic.stackblitz.io/)
 
 ### ProjectUranium
