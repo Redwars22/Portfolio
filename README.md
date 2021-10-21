@@ -1,7 +1,8 @@
 # Intro
->Welcome to my main repository in GitHub. Here you can find a couple of projects I've been working at to practice and improve my programming skills in HTML, JS, CSS, PHP and etc...
+>Welcome to my main repository in GitHub. Here you can find a couple of projects I've been working at to practice and improve my programming skills in HTML, JS, CSS, PHP and etc... All of my projects are open source, which means you are able to fork, download, modify, and improve them freely. If you find any bug on them, please contact me or leave me a message in the comments section. Thanks for visiting my repository.
 
->Bem-vindo ao meu repositório principal no GitHub. Aqui você vai encontrar alguns projetos nos quais estive trabalhando para praticar e melhorar minhas habilidades de programação em HTML, JS, CSS, PHP e etc...
+
+>Bem-vindo ao meu repositório principal no GitHub. Aqui você vai encontrar alguns projetos nos quais estive trabalhando para praticar e melhorar minhas habilidades de programação em HTML, JS, CSS, PHP e etc... Todos os meus projetos são de código aberto, isto é, você pode fazer fork deles, baixar, modificar e melhorá-los livremente. Se encontrar algum bug neles, não hesite em contatar-me ou deixar-me uma mensagem na seção de comentários. Obrigado por visitar o meu repositório.
 
 ```php
 //WELCOME MESSAGE
