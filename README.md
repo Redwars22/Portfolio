@@ -13,6 +13,15 @@ if($language == "pt-br")
 }
 ```
 
+# Work In Progress/Trabalho Em Progresso
+### AngularMusic
+![image](https://user-images.githubusercontent.com/26885598/138197039-a0b1bf8a-29c2-4bf5-b18b-8d3f58a6cec5.png)
+Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
+
+### ProjectUranium
+<img src="![image](https://user-images.githubusercontent.com/26885598/138196924-394fa56b-8319-4333-93b3-ad0feab52e5d.png)">
+Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
+
 # Projects/Projetos
 
 ```php
