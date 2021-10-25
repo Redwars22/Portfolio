@@ -37,9 +37,8 @@ Um belo aplicativo de músicas grátis com algumas das melhores músicas sem dir
 - A more responsive UI. The app now looks good either in mobile or in desktop./Uma IU mais responsiva. Agora o app tem uma ótima aparência tanto em dispositivos móveis quando desktop.
 - New background: it now shows an animation instead of a static color./Novo plano de fundo: agora é exibida uma animação em vez de uma cor estática.
 - 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!-->
-  
-[VERSÃO BETA/BETA VERSION](https://angularmusic.stackblitz.io/)
-  <em>O código fonte será liberado em breve! The source code will be release soon!</em>
+ 
+  <em>Para acessar este app, acesse os link abaixo na seção projetos. O código fonte está disponível aqui neste repositório./To access this app, go to the links below in the projects section. The source code is available here in this repository.</em>
 
 ### ProjectUranium
 Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
@@ -65,6 +64,7 @@ switch($lang){
 }
 ```
 
+- [AngularMusic](https://github.com/Redwars22/Portfolio/tree/main/app/AngularMusic)
 - [Arland](https://github.com/Redwars22/Portfolio/tree/main/app/Arland)
 - [Asteria](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria)
 - [Cobalt](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html)
