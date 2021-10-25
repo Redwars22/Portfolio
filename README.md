@@ -33,18 +33,20 @@ if($language == "pt-br")
 Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
   
 
-CHANGELOG/MUDANÇAS
+<!--CHANGELOG/MUDANÇAS
 - A more responsive UI. The app now looks good either in mobile or in desktop./Uma IU mais responsiva. Agora o app tem uma ótima aparência tanto em dispositivos móveis quando desktop.
 - New background: it now shows an animation instead of a static color./Novo plano de fundo: agora é exibida uma animação em vez de uma cor estática.
-- 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!
+- 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!-->
   
   <em>In this stage, it's almost ready to be released pubicly as a beta version. Neste estágio, está quase pronto para ser lançado publicamente como uma versão beta.</em>
   
 [VERSÃO ALPHA/ALPHA VERSION](https://angularmusic.stackblitz.io/)
 
 ### ProjectUranium
-<img src="![image](https://user-images.githubusercontent.com/26885598/138196924-394fa56b-8319-4333-93b3-ad0feab52e5d.png)">
 Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
+  
+### React Music
+Uma versão do Angular Music, porém feita em ReactJS./Another version of Angular Music, but made in ReactJS this time.
 
 # Projects/Projetos
 
@@ -74,3 +76,4 @@ switch($lang){
 
 - [MY WEBSITE/MEU SITE](https://redwars22.github.io/Portfolio/)
 - [MY BLOG/MEU BLOG](https://redwars22blog.stackblitz.io/)
+- [MY OTHER REPOSITORIES/MEUS OUTROS REPOSITÓRIOS](https://github.com/Redwars22)
