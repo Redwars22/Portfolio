@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+  /*background-color: #154d4f;*/
+  background-image: url('https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif');
+  display: grid;
+  margin: 3px 3px 3px 3px;
+}
+
+@media (max-width: 599px) {
+  body {
+    background-image: url('https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}

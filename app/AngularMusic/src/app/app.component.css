@@ -1,0 +1,44 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: #154d4f;
+  color: white;
+}
+
+main {
+  display: grid;
+  /*grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas: 'el1 el2 el3';*/
+  place-items: center;
+}
+
+@media (min-width: 599px) {
+  main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+}
+
+.musicGrid {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 195px 195px;
+  grid-template-rows: auto auto;
+  grid-template-areas: 'el1 el2' 'el3 el4';
+}
+
+.el1 {
+  grid-area: el1;
+}
+
+.el2 {
+  grid-area: el2;
+}
+
+.el3 {
+  grid-area: el3;
+}
+
+.el4 {
+  grid-area: el4;
+}
