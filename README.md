@@ -22,23 +22,11 @@ if($language == "pt-br")
 
 # Work In Progress/Trabalho Em Progresso
 ### AngularMusic
-  
-  ORIGINAL VERSION/VERSÃO ORIGINAL
-![image](https://user-images.githubusercontent.com/26885598/138197039-a0b1bf8a-29c2-4bf5-b18b-8d3f58a6cec5.png)
-  
-  CURRENT VERSION/VERSÃO ATUAL
 ![Captura de tela de 2021-10-21 23-32-38](https://user-images.githubusercontent.com/26885598/138384025-8a4f0cb3-9caa-4a56-99d7-be1b5f0fd5c6.png)  
 
-
 Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
-  
 
-<!--CHANGELOG/MUDANÇAS
-- A more responsive UI. The app now looks good either in mobile or in desktop./Uma IU mais responsiva. Agora o app tem uma ótima aparência tanto em dispositivos móveis quando desktop.
-- New background: it now shows an animation instead of a static color./Novo plano de fundo: agora é exibida uma animação em vez de uma cor estática.
-- 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!-->
- 
-  <em>Para acessar este app, acesse os link abaixo na seção projetos. O código fonte está disponível aqui neste repositório./To access this app, go to the links below in the projects section. The source code is available here in this repository.</em>
+- [ACESSE O PROJETO/ACCESS THIS PROJECT](https://angularmusic.stackblitz.io/)
 
 ### ProjectUranium
 Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
