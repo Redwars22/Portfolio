@@ -38,9 +38,8 @@ Um belo aplicativo de músicas grátis com algumas das melhores músicas sem dir
 - New background: it now shows an animation instead of a static color./Novo plano de fundo: agora é exibida uma animação em vez de uma cor estática.
 - 5 news songs added and more to come!/5 novas músicas adicionadas e mais estão por vir!-->
   
-  <em>In this stage, it's almost ready to be released pubicly as a beta version. Neste estágio, está quase pronto para ser lançado publicamente como uma versão beta.</em>
-  
-[VERSÃO ALPHA/ALPHA VERSION](https://angularmusic.stackblitz.io/)
+[VERSÃO BETA/BETA VERSION](https://angularmusic.stackblitz.io/)
+  <em>O código fonte será liberado em breve! The source code will be release soon!</em>
 
 ### ProjectUranium
 Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
