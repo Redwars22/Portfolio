@@ -23,19 +23,21 @@ switch($lang){
     echo $intro_en-us;
 }
 ```
-
-- [Asteria](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria)
-- [Cobalt](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html)
-- [Horizon](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon)
-- [Leonflix](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html)
-- [RandNum](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum)
-- [TrigonPHP](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP)
   
 | Codinome/Codename| Código fonte/Source code| Executar/Run | Status |
 |--- |--- |--- |--- |
-| 🎵️ AngularMusic| [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/AngularMusic) | [💻️ RUN](angularmusic.stackblitz.io/)| Finished |
-| 💬️ Arland | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Arland) | [💻️ RUN]() | Finished |
-| TEMPLATE | [📂️ SOURCE]() | [💻️ RUN]() | Finished |
+| 🎵️ **AngularMusic**| [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/AngularMusic) | [💻️ RUN](https://angularmusic.stackblitz.io/)| Finished |
+| 🔢️ **Arithmo** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Arithmo) | [💻️ RUN](https://projectarithmo.redwars22.repl.co/) | Finished |
+| 💬️ **Arland** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Arland) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/Arland/index.html) | Finished |
+| 📚️ **Asteria** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/Asteria/) | Finished |
+| 🚍️ **AutoOnibus** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/AutoOnibus) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/AutoOnibus/) | Finished |
+| 📄️ **Cobalt** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectCobalt.html) | Finished |
+| 📊️ **Horizon** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon) | [💻️ RUN](https://project-horizon.redwars22.repl.co/) | Finished |
+| 🎥️ **Leonflix** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectLeonflix.html) | Finished |
+| 🔢️ **RandNum** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum) | [💻️ RUN](https://randnum.stackblitz.io/) | Finished |
+| 🎵️ **ReactMusic** |  | [💻️ RUN](https://reactmusic.stackblitz.io/) | WIP |
+| 📐️ **TrigonPHP** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP) | [💻️ RUN](https://trigonphp.redwars22.repl.co/) | Finished |
+  | TEMPLATE | [📂️ SOURCE]() | [💻️ RUN]() | Finished |
 
 # 🌐️ Other links/Outros links
 
@@ -45,14 +47,9 @@ switch($lang){
   
 # 👨‍🏭️🕑️ Work In Progress/Trabalho Em Progresso
 ### AngularMusic
-![image](https://user-images.githubusercontent.com/26885598/138755496-49ba2eb4-035f-4a35-bb09-ae6d2327e219.png)
+![image](https://user-images.githubusercontent.com/26885598/139155131-0d2bc936-7c46-4e1e-8bdd-8b4bd7ff5023.png)
  
 Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
-
-- [ACESSE O PROJETO/ACCESS THIS PROJECT](https://angularmusic.stackblitz.io/)
-
-### ProjectUranium
-Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
   
 ### React Music
 ![Captura de tela de 2021-10-26 20-35-20](https://user-images.githubusercontent.com/26885598/138994800-63cf02a9-c595-4ea3-a064-99c9d70da348.png)
