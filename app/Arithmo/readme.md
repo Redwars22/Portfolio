@@ -1,3 +1,6 @@
+![Captura de tela de 2021-10-27 16-49-31](https://user-images.githubusercontent.com/26885598/139143224-1be46ca8-9415-4e07-a90d-13f1f9b78ad2.png)
+
+
 # 🇧🇷 VERSÃO EM PORTUGUÊS
 ## 💁 SOBRE O PROJECT ARITHMOS
 O Arithmo é uma adaptação de um outro projeto meu, o RandNum (feito em Angular e TypeScript) para o PHP. Ele usa a biblioteca Math e dispõe de um formulário para que o usuário possa definir o intervalo dentro do qual o número aleatórios será gerado.
