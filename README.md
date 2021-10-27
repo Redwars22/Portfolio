@@ -1,18 +1,6 @@
 # ℹ️ Intro
->Welcome to my main repository in GitHub. Here you can find a couple of projects I've been working at to practice and improve my programming skills in HTML, JS, CSS, PHP and etc... All of my projects are open source, which means you are able to fork, download, modify, and improve them freely. If you find any bug on them, please contact me or leave me a message in the comments section. Thanks for visiting my repository.
-
-
->Bem-vindo ao meu repositório principal no GitHub. Aqui você vai encontrar alguns projetos nos quais estive trabalhando para praticar e melhorar minhas habilidades de programação em HTML, JS, CSS, PHP e etc... Todos os meus projetos são de código aberto, isto é, você pode fazer fork deles, baixar, modificar e melhorá-los livremente. Se encontrar algum bug neles, não hesite em contatar-me ou deixar-me uma mensagem na seção de comentários. Obrigado por visitar o meu repositório.
-
-```php
-//WELCOME MESSAGE
-if($language == "pt-br")
-{
-  echo "BEM-VINDO!!!";
-} else {
-  echo "WELCOME!!!";
-}
-```
+>🇺🇸️ Welcome to my main repository in GitHub. Here you can find a couple of projects I've been working at to practice and improve my programming skills in HTML, JS, CSS, PHP and etc... All of my projects are open source, which means you are able to fork, download, modify, and improve them freely. If you find any bug on them, please contact me or leave me a message in the comments section. Thanks for visiting my repository.
+🇧🇷️ Bem-vindo ao meu repositório principal no GitHub. Aqui você vai encontrar alguns projetos nos quais estive trabalhando para praticar e melhorar minhas habilidades de programação em HTML, JS, CSS, PHP e etc... Todos os meus projetos são de código aberto, isto é, você pode fazer fork deles, baixar, modificar e melhorá-los livremente. Se encontrar algum bug neles, não hesite em contatar-me ou deixar-me uma mensagem na seção de comentários. Obrigado por visitar o meu repositório.
 
 <div>
   <a href="https://beacons.ai/Redwars22">
@@ -36,14 +24,18 @@ switch($lang){
 }
 ```
 
-- [AngularMusic](https://github.com/Redwars22/Portfolio/tree/main/app/AngularMusic)
-- [Arland](https://github.com/Redwars22/Portfolio/tree/main/app/Arland)
 - [Asteria](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria)
 - [Cobalt](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html)
 - [Horizon](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon)
 - [Leonflix](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html)
 - [RandNum](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum)
 - [TrigonPHP](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP)
+  
+| Codinome/Codename| Código fonte/Source code| Executar/Run | Status |
+|--- |--- |--- |--- |
+| 🎵️ AngularMusic| [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/AngularMusic) | [💻️ RUN](angularmusic.stackblitz.io/)| Finished |
+| 💬️ Arland | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Arland) | [💻️ RUN]() | Finished |
+| TEMPLATE | [📂️ SOURCE]() | [💻️ RUN]() | Finished |
 
 # 🌐️ Other links/Outros links
 
