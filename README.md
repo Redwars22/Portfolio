@@ -32,9 +32,9 @@ Um belo aplicativo de músicas grátis com algumas das melhores músicas sem dir
 Projeto em PHP por enquanto sem ideias/PHP project without any idea meanwhile.
   
 ### React Music
-![image](https://user-images.githubusercontent.com/26885598/138626451-cec58c38-ee3e-4f04-800d-6f5902400da8.png)
 
-Uma versão do Angular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular, ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. /Another version of Angular Music, but made in ReactJS this time.
+Uma versão do An![Captura de tela de 2021-10-26 20-35-20](https://user-images.githubusercontent.com/26885598/138994800-63cf02a9-c595-4ea3-a064-99c9d70da348.png)
+gular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular, ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. /Another version of Angular Music, but made in ReactJS this time. Even though it might seem that the React version of my music app turned out being better than its Angular version, at least visually, it doesn't necessarily mean that one is better or worse than the other. The truth is that I used pure CSS to style the page in the Angular version whereas I decided to use the Materialize framework in the React version.
   
 - [VERSÃO ALPHA/ALPHA VERSION](https://reactmusic.stackblitz.io/)
 
