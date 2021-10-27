@@ -1,0 +1,48 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url('https://wallpaperaccess.com/full/4415924.jpg');
+    background-size: cover;
+    color: #eeeeee;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.help {
+    display: grid;
+    place-items: center;
+    margin: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: grid;
+    place-items: center;
+    margin-bottom: 20px;
+}
+
+input {
+    color: white;
+    font-size: 15px;
+}
+
+button {
+    margin: 10px 0px 0px 10px;
+}
+
+a {
+    margin: 10px 0px 0px 10px;
+}
+
+footer {
+    display: grid;
+    place-items: center;
+}
