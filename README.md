@@ -9,20 +9,6 @@
 </div>
 
 # 📁️ Projects/Projetos
-
-```php
-//BILINGUAL DESCRIPTION
-$intro_en-us = "Here are the links to the source code of my projets. I gave each one a codename.";
-$intro pt-br = "Aqui estão os links para o código de fonte dos meus projetos. Atribui um codinome a cada um deles.";
-
-switch($lang){
-  case "pt-br":
-    echo $intro_pt-br;
-    break;
-  default:
-    echo $intro_en-us;
-}
-```
   
 | Codinome/Codename| Código fonte/Source code| Executar/Run | Status |
 |--- |--- |--- |--- |
@@ -46,13 +32,13 @@ switch($lang){
 - [MY OTHER REPOSITORIES/MEUS OUTROS REPOSITÓRIOS](https://github.com/Redwars22)
   
 # 👨‍🏭️🕑️ Work In Progress/Trabalho Em Progresso
+  ![image](https://user-images.githubusercontent.com/26885598/139285466-0409ff8b-cc84-4742-874c-3d6a2eeef4f7.png)
+
 ### AngularMusic
-![image](https://user-images.githubusercontent.com/26885598/139155131-0d2bc936-7c46-4e1e-8bdd-8b4bd7ff5023.png)
  
 Um belo aplicativo de músicas grátis com algumas das melhores músicas sem direitos autorais do YouTube .Feito em Angular, HTML e CSS. Planejo reconstruí-lo em ReactJS posteriormente quando conheça e aprenda mais sobre esse framework./A beautiful app with free songs and some of the best non copyrighted songs in YouTube. Made with Angular, HTML, and CSS. I'm planning to rebuild it in ReactJS later when I learn and get to know more about this framework.
   
 ### React Music
-![Captura de tela de 2021-10-26 20-35-20](https://user-images.githubusercontent.com/26885598/138994800-63cf02a9-c595-4ea3-a064-99c9d70da348.png)
   
 Uma versão do Angular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular, ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. /Another version of Angular Music, but made in ReactJS this time. Even though it might seem that the React version of my music app turned out being better than its Angular version, at least visually, it doesn't necessarily mean that one is better or worse than the other. The truth is that I used pure CSS to style the page in the Angular version whereas I decided to use the Materialize framework in the React version.
   
