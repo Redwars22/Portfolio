@@ -1,3 +1,6 @@
+![Captura de tela de 2021-10-28 14-57-11](https://user-images.githubusercontent.com/26885598/139317479-c1ac85c3-8618-4246-8426-b9fb43c99818.png)
+
+
 # 🇧🇷 VERSÃO EM PORTUGUÊS
 ## 💁 SOBRE O PROJECT ERIS
 O Project Eris é uma versão alternativa do Project Cobalt e, como ele, é um editor de texto simples que funciona em qualquer navegador. Ele também permite baixar o texto digitado como um arquivo RTF que pode ser aberto em praticamente qualquer editor de texto, como o LibreOffice por exemplo. Sua interface naturalmente possui cores e um papel de parede escuro que são amigáveis aos olhos do usuário.
