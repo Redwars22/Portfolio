@@ -18,6 +18,7 @@
 | 📚️ **Asteria** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Asteria) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/Asteria/) | Finished |
 | 🚍️ **AutoOnibus** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/AutoOnibus) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/AutoOnibus/) | Finished |
 | 📄️ **Cobalt** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectCobalt.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectCobalt.html) | Finished |
+| 📑️ **Eris** | 📂️ SOURCE | 💻️ RUN | WIP |
 | 📊️ **Horizon** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon) | [💻️ RUN](https://project-horizon.redwars22.repl.co/) | Finished |
 | 🎥️ **Leonflix** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectLeonflix.html) | Finished |
 | 🔢️ **RandNum** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum) | [💻️ RUN](https://randnum.stackblitz.io/) | Finished |
