@@ -39,7 +39,15 @@
   
 Uma versão do Angular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular (ou vice-versa), ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. /Another version of Angular Music, but made in ReactJS this time. Even though it might seem that the React version of my music app turned out being better than its Angular version (or the other way around), at least visually, it doesn't necessarily mean that one is better or worse than the other. The truth is that I used pure CSS to style the page in the Angular version whereas I decided to use the Materialize framework in the React version.
   
+NOTA 01/11/2021: O projeto está quase 70% completo! Só preciso adicionar algumas músicas mais e corrigir o CSS par torná-lo mais responsivo e fazê-lo aparecer bem em qualquer tamanho de tela.
+UPDATE 01/11/2021: The project is almost 70% complete! I only have to add a few more songs to it and also fix it's CSS to make it more responsive and good-looking regardless of the screen size.
+  
 - [VERSÃO ALPHA/ALPHA VERSION](https://reactmusic.stackblitz.io/)
+
+| Desktop | Mobile |
+|--- |--- |
+| <img src="https://user-images.githubusercontent.com/26885598/139753249-dd062cb9-7550-4837-a73e-34836959c38b.png" width="450px">| <img src="https://user-images.githubusercontent.com/26885598/139753305-1dfe3a18-cc7d-4dfc-a3b4-ea2e497dd1f1.png" width="250px">|
+
   
 ### Project Geld
   
