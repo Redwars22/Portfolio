@@ -1,0 +1,38 @@
+body {
+  padding: 10% 0% 10% 0%;
+}
+
+header {
+  padding: 10px;
+}
+
+main, header, footer{
+  display: grid;
+  place-items: center;
+}
+
+footer {
+  padding: 0% 10% 0% 10%;
+}
+
+.conversor {
+  display: grid;
+  place-items: center;
+  background-color: #6f42c1;
+  border-radius: 20px;
+  padding:20px;
+  margin: 10px;
+  color: white;
+  box-shadow: 1px 1px 1px black;
+}
+
+.conv2 {
+  background-color: #20c997;
+}
+
+@media (min-width: 599px){
+  main {
+    grid-template-columns: auto auto;
+    margin: 0 15% 0 15%;
+  }
+}
