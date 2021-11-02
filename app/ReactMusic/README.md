@@ -49,7 +49,7 @@ ReactMusic is a remix of another project of mine, Angular Music, but built in Re
 
 [BETA VERSION](https://appreactmusic.firebaseapp.com/?96206)
 
-### THE MUSIC COMPONENT
+### 🎧️⚙️ THE MUSIC COMPONENT
 The music component is the UI's most important part. It's responsible for showing some information about the song: author, name, mp3 file, thumbnail etc.
 
 ```html
@@ -70,10 +70,10 @@ export default function Music(props) {
   }
 }
 ```
-### SOURCE CODE
+### 📂️ SOURCE CODE
 All of this project's source code is available here on this folder. You know download it, distribute, and modify it but, if you do it, at least mention the project's original author. Thanks!
 
-### WHAT DID I USE?
+### 💻️🔌️ WHAT DID I USE?
 - <img src="https://cdn0.iconfinder.com/data/icons/social-36/66/10-256.png" width="25px"> [Visual Studio Code](https://vscode.dev/)
 - <img src="https://pbs.twimg.com/profile_images/1055142255722344448/xhqy_EUP_400x400.jpg" width="25px"> [StackBlitz](https://stackblitz.com/)
 - <img src="https://materializecss.com/res/materialize.svg" width="25px"> [Materialize](https://materializecss.com/)
