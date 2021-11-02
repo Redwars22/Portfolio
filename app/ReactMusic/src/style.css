@@ -1,0 +1,131 @@
+.head {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+h1 {
+  font-size: 25pt;
+  color: white;
+  text-shadow: 1px 1px 1x;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background-color: #010412;
+  color: white;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+footer {
+  color: white;
+  display: grid;
+  place-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 10%;
+}
+
+a {
+  margin-top: 10px;
+  max-width: 300px;
+}
+
+.page {
+  margin-right: 20%;
+}
+
+/*.container {
+  display: grid;
+  place-items: center;
+  grid-template-columns: auto auto;
+}
+
+@media (max-width: 599px) {
+  .container {
+    display: grid;
+    place-items: center;
+  }
+}*/
+
+@media (min-width: 599px){
+  .page {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: -5%;
+  }
+
+  .section {
+    margin: 5px 20px 0px 20px;
+  }
+}
+
+@media (max-width: 599px){
+  body {
+    margin-left: -2%;
+  }
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  grid-template-columns: auto auto;
+}
+
+.musicContainer {
+  width: 180px;
+  height: 160px;
+  border-radius: 15px;
+  background-color: #005bf7;
+  opacity: 0.9;
+  color: white;
+  display: grid;
+  grid-template-columns: 60px auto;
+  grid-template-rows: 30px 60px 50px;
+  grid-template-areas: 'thumb title' 'thumb title' 'thumb button';
+  align-items: center;
+  padding: 10px;
+  margin: 4px;
+}
+
+.musicContainer:hover {
+  background-color: #f70029;
+  opacity: 1;
+  color: black;
+  text-shadow: 1px 1px 1px;
+  box-shadow: -1px -1px 1px #005bf7;
+}
+
+.thumb {
+  border-radius: 10px;
+  grid-area: thumb;
+}
+
+.play {
+  width: 105px;
+  color: red;
+}
+
+.player {
+  display: grid;
+  place-items: center;
+  background-image: url('https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.6;
+  border-radius: 20px;
+  max-height: 90px;
+  align-items: center;
+  margin-left: 5%;
+}
+
+.categoryLogo {
+  margin-right: 10px;
+}
+
+.section {
+  display: grid;
+}
