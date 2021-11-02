@@ -24,7 +24,7 @@
 | 📊️ **Horizon** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon) | [💻️ RUN](https://project-horizon.redwars22.repl.co/) | Finished |
 | 🎥️ **Leonflix** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectLeonflix.html) | Finished |
 | 🔢️ **RandNum** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum) | [💻️ RUN](https://randnum.stackblitz.io/) | Finished |
-| 🎵️ **ReactMusic** | 📂️ SOURCE | [💻️ RUN](https://reactmusic.stackblitz.io/) | WIP |
+| 🎵️ **ReactMusic** | 📂️ SOURCE | [💻️ RUN](https://appreactmusic.firebaseapp.com/?96206) | Beta |
 | 📐️ **TrigonPHP** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP) | [💻️ RUN](https://trigonphp.redwars22.repl.co/) | Finished |
 | TEMPLATE | [📂️ SOURCE]() | [💻️ RUN]() | Finished |
 
@@ -41,10 +41,10 @@
   
 🇧🇷️ Uma versão do Angular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular (ou vice-versa), ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. <br>🇺🇸️ Another version of Angular Music, but made in ReactJS this time. Even though it might seem that the React version of my music app turned out being better than its Angular version (or the other way around), at least visually, it doesn't necessarily mean that one is better or worse than the other. The truth is that I used pure CSS to style the page in the Angular version whereas I decided to use the Materialize framework in the React version.
   
-🇧🇷️ NOTA 01/11/2021: O projeto está quase 70% completo! Só preciso adicionar algumas músicas mais e corrigir o CSS par torná-lo mais responsivo e fazê-lo aparecer bem em qualquer tamanho de tela.
-<br>🇺🇸️UPDATE 01/11/2021: The project is almost 70% complete! I only have to add a few more songs to it and also fix it's CSS to make it more responsive and good-looking regardless of the screen size.
+🇧🇷️ NOTA 01/11/2021: O projeto está quase 90% completo! Só preciso corrigir o CSS para torná-lo mais responsivo e fazê-lo aparecer bem em qualquer tamanho de tela.
+<br>🇺🇸️UPDATE 01/11/2021: The project is almost 90% complete! I only have to fix it's CSS to make it more responsive and good-looking regardless of the screen size.
   
-- [VERSÃO ALPHA/ALPHA VERSION](https://reactmusic.stackblitz.io/)
+- [VERSÃO BETA/BETA VERSION](https://appreactmusic.firebaseapp.com/?96206)
 
 | Desktop | Mobile |
 |--- |--- |
