@@ -6,6 +6,7 @@
 O ReactMusic é um remix de um outro projeto meu, o Angular Music, porém feito em React e TypeScript. Atualmente está em versão BETA, quase concluído, falta apenas corrigir algumas falhas e ajustar a interface. 
 
 [▶️ VERSÃO BETA](https://appreactmusic.firebaseapp.com/?96206)
+[APK ANDROID](https://github.com/Redwars22/Portfolio/releases/download/v1.0.0/ReactMusic.apk)
 
 ### 🎧️⚙️ O COMPONENTE MUSIC
 O componente Music é a parte mais importante da interface. Ele é responsável por exibir as informações sobre a música: autor, nome, arquivo, thumbnail etc.
@@ -48,6 +49,7 @@ Todo o código fonte do projeto está disponível aqui nesta pasta. Você pode b
 ReactMusic is a remix of another project of mine, Angular Music, but built in React and TypeScript. It's currently in BETA, almost completed, I only need to correct some bugs and adjust the UI.
 
 [▶️ BETA VERSION](https://appreactmusic.firebaseapp.com/?96206)
+[ANDROID APK](https://github.com/Redwars22/Portfolio/releases/download/v1.0.0/ReactMusic.apk)
 
 ### 🎧️⚙️ THE MUSIC COMPONENT
 The music component is the UI's most important part. It's responsible for showing some information about the song: author, name, mp3 file, thumbnail etc.
