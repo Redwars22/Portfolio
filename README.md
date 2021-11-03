@@ -58,9 +58,9 @@
 |<img src="https://user-images.githubusercontent.com/26885598/139732458-745a5009-f526-4b64-800e-accc23f5bba8.png" width="450px"> |<img src="https://user-images.githubusercontent.com/26885598/139734428-3f3acb10-fe3a-4bd5-a8d6-758bc79eeca3.png" width="450px">|
 | **C** | **ReactJS** |
 |<img src="https://user-images.githubusercontent.com/26885598/139787131-520a2d93-7f3e-4680-b160-99752a40d608.png" width="450px">| WORK IN PROGRESS... |
+| Java | Links |
+| <img src="https://user-images.githubusercontent.com/26885598/140013465-0213684c-d763-44ef-8570-e804b557b421.png" width="450px"> | - [VERSÃO C#/C# VERSION](https://github.com/Redwars22/Alpha/tree/main/Project%20Geld/Project%20Geld)<br> - [VERSÃO ANGULAR/ANGULAR VERSION](https://project-geld.firebaseapp.com/?93531)<br>- [VERSÃO EM C/C VERSION](https://github.com/Redwars22/Alpha/tree/main/ProjectGeld%20-%20C)<br>- JAVA VERSION SOON |
   
-🇧🇷️ O Project Geld é um conversor de moedas (dólar -> real ou real -> dólar) fácil de usar. Inicialmente construído em Angular, com ports para ReactJS, C#, C e Java em progresso. <br>🇺🇸️Project Geld is a currency converter (dollar -> real or real -> dollar) easy to use. It was initially built in Angular, but ports to ReactJS, C#, C, and Java are coming soon.
+🇧🇷️ O Project Geld é um conversor de moedas (dólar -> real ou real -> dólar) fácil de usar. Inicialmente construído em Angular, com ports para ReactJS, C#, C e Java em progresso. <br>🇺🇸️Project Geld is an easy to use currency converter (dollar -> real or real -> dollar) It was initially built in Angular, but ports to ReactJS, C#, C, and Java are coming soon.
 
-- [VERSÃO C#/C# VERSION](https://github.com/Redwars22/Alpha/tree/main/Project%20Geld/Project%20Geld)
-- [VERSÃO ANGULAR/ANGULAR VERSION](https://project-geld.firebaseapp.com/?93531)
-- [VERSÃO EM C/C VERSION](https://github.com/Redwars22/Alpha/tree/main/ProjectGeld%20-%20C)
+
