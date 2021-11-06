@@ -1,0 +1,32 @@
+.container {
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  background-color: rgba(133, 6, 133, 0.801);
+  margin-top: 10px;
+}
+
+.container2 {
+  background-color: rgba(4, 126, 163, 0.801);
+}
+
+form, .container {
+  display: grid;
+  place-items: center;
+}
+
+button {
+  display: grid;
+  padding: 5px;
+  align-items: center;
+  width: 150px;
+}
+
+input {
+  color: white;
+}
+
+.value {
+  font-size: 20pt;
+  margin-top: 10px;
+}

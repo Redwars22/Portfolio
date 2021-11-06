@@ -1,0 +1,12 @@
+@media (min-width: 599px){
+  main {
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(2, 490px);
+  }
+
+  body {
+    display: grid;
+    place-items: center;
+  }
+}

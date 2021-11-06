@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.headerContainer {
+  display: grid;
+  grid-template-areas: 'logo title' 'description description';
+  align-items: center;
+}
+
+.title {
+  font-size: 30pt;
+  grid-area: title;
+}
+
+.logo {
+  grid-area: logo;
+  margin-right: 10px;
+}
+
+.description {
+  grid-area: description;
+  margin-top: -5px;
+}
+
+body {
+  background-image: url('https://github.com/Redwars22/Portfolio/blob/main/img/money_bckg.jpg?raw=true');
+  background-size: cover;
+  text-shadow: 1px 1px 1px;
+  /*color: rgba(53, 49, 54, 0.842);*/
+  color: white;
+}
+
+/*
+.v2 {
+  padding: 10% 0% 20% 0%;
+  background-color: rgba(126, 250, 229, 0.247);
+}
+*/
+
+.footer {
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: grid;
+  place-items: center;
+}
