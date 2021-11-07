@@ -26,7 +26,6 @@
 | 🔢️ **RandNum** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum) | [💻️ RUN](https://randnum.stackblitz.io/) | Finished |
 | 🎵️ **ReactMusic** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/ReactMusic) | [💻️ RUN](https://appreactmusic.firebaseapp.com/?96206) | Beta |
 | 📐️ **TrigonPHP** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP) | [💻️ RUN](https://trigonphp.redwars22.repl.co/) | Finished |
-| TEMPLATE | [📂️ SOURCE]() | [💻️ RUN]() | Finished |
 
 # 🌐️ Other links/Outros links
 
@@ -61,6 +60,4 @@
 | Java | Links |
 | <img src="https://user-images.githubusercontent.com/26885598/140013465-0213684c-d763-44ef-8570-e804b557b421.png" width="450px"> | - [VERSÃO C#/C# VERSION](https://github.com/Redwars22/Alpha/tree/main/Project%20Geld/Project%20Geld)<br> - [VERSÃO ANGULAR/ANGULAR VERSION](https://project-geld.firebaseapp.com/?93531)<br>- [VERSÃO EM C/C VERSION](https://github.com/Redwars22/Alpha/tree/main/ProjectGeld%20-%20C)<br>- [JAVA VERSION SOON](https://github.com/Redwars22/Alpha/tree/main/ProjectGeld%20-%20JAVA) |
   
-🇧🇷️ O Project Geld é um conversor de moedas (dólar -> real ou real -> dólar) fácil de usar. Inicialmente construído em Angular, com ports para ReactJS, C#, C e Java em progresso. <br>🇺🇸️Project Geld is an easy to use currency converter (dollar -> real or real -> dollar) It was initially built in Angular, but ports to ReactJS, C#, C, and Java are coming soon.
-
-
+🇧🇷️ O Project Geld é um conversor de moedas (dólar -> real ou real -> dólar) fácil de usar. Inicialmente construído em Angular e portado para ReactJS, C#, C e Java em progresso. <br>🇺🇸️Project Geld is an easy to use currency converter (dollar -> real or real -> dollar) It was initially built in Angular, and ported to ReactJS, C#, C, and Java are coming soon.
