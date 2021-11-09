@@ -30,7 +30,6 @@
 # 🌐️ Other links/Outros links
 
 - [MY WEBSITE/MEU SITE](https://redwars22.github.io/Portfolio/)
-- [MY BLOG/MEU BLOG](https://redwars22blog.web.app/)
 - [MY OTHER REPOSITORIES/MEUS OUTROS REPOSITÓRIOS](https://github.com/Redwars22)
   
 # 👨‍🏭️🕑️ Work In Progress/Trabalho Em Progresso
