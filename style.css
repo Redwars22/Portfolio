@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css2?family=Fira+Mono:wght@100;200;300;400;500;600;700&display=swap);
+
+body {
+    padding: 25px 0px 25px 0px;
+}
+
+.blogHeader {
+    display: grid;
+    place-items: center;
+    color: white;
+}
+
+.authorPhoto {
+    border-radius: 15px;
+}
+
+body, main, article, .langIcons {
+    display: grid;
+    place-items: center;
+    background-color: #1b2731;
+    font-family: 'Fira Mono', monospace;
+}
+
+p, h1, h2, h5, strong, em {
+    color: white;
+}
+
+.about {
+    width: 75%;
+    text-align: center;
+}
+
+.linkIcon {
+    border-radius: 20px;
+}
+
+.linkIcon:hover {
+    width: 50px;
+}
+
+svg {
+    margin: 10px;
+    opacity: 0.7;
+}
+
+svg:hover {
+    opacity: 1.0;
+    width: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.projectImg {
+    width: 410px;
+    height: 230px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.col {
+    width: 420px;
+    margin: 20px;
+}
+
+.linkBox {
+    margin: 25px;
+}
+
+hr {
+    color: white;
+}
+
+.langIcons {
+    margin: 25px;
+}
+
+.upperFooter {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 100px;
+    align-items: center;
+    /*background-color: rgba(11, 34, 48, 0.603);*/
+    background: rgb(14,90,111);
+    background: linear-gradient(107deg, rgba(14,90,111,1) 0%, rgba(38,118,198,1) 37%, rgba(18,15,48,1) 100%);  
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.lowerFooter {
+    display: grid;
+    place-items: center;
+    margin-top: 15px;
+}
+
+.gitHub {
+    margin: 10px;
+}
+
+.gitHubLink {
+    margin-left: 10px;
+}
+
+.el {
+    margin: 10px;
+}
