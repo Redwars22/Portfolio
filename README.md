@@ -28,7 +28,7 @@
 | 📊️ **Horizon** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/Horizon) | [💻️ RUN](https://project-horizon.redwars22.repl.co/) | Finished |
 | 🎥️ **Leonflix** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/blob/main/app/projectLeonflix.html) | [💻️ RUN](https://redwars22.github.io/Portfolio/app/projectLeonflix.html) | Finished |
 | 🔢️ **RandNum** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/RandNum) | [💻️ RUN](https://randnum.stackblitz.io/) | Finished |
-| 🎵️ **ReactMusic** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/ReactMusic) | [💻️ RUN](https://appreactmusic.firebaseapp.com/?96206) | Beta |
+| 🎵️ **ReactMusic** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/ReactMusic) | [💻️ RUN](https://appreactmusic.firebaseapp.com/?96206) | Release Candidate |
 | 📐️ **TrigonPHP** | [📂️ SOURCE](https://github.com/Redwars22/Portfolio/tree/main/app/TrigonPHP) | [💻️ RUN](https://trigonphp.redwars22.repl.co/) | Finished |
 
 # 🌐️ Other links/Outros links
