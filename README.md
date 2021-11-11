@@ -7,6 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redwars22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwars22&layout=compact&langs_count=16&theme=dark"/>
 </div>
+  
+<a href="https://github.com/Redwars22/Web2">
+  <img src="https://docs.google.com/drawings/d/e/2PACX-1vSmEXLv0iddCXihRDDjmYC2JAdTFA6trItvlVZKsfyV0--v8emP5YlGrO_j2mVx_XSoR2HnAHokzXnN/pub?w=947&h=157">
+</a>
 
 # 📁️ Projects/Projetos
   
@@ -29,18 +33,17 @@
 
 # 🌐️ Other links/Outros links
 
-- [MY WEBSITE/MEU SITE](https://redwars22.github.io/Portfolio/)
-- [MY OTHER REPOSITORIES/MEUS OUTROS REPOSITÓRIOS](https://github.com/Redwars22)
+- [💻️ MY WEBSITE/MEU SITE](https://redwars22.github.io/Portfolio/)
+- [📗️ MY BLOG/MEU BLOG](https://redwars22blog.web.app/)
+- [📁️ MY OTHER REPOSITORIES/MEUS OUTROS REPOSITÓRIOS](https://github.com/Redwars22)
   
 # 👨‍🏭️🕑️ Work In Progress/Trabalho Em Progresso
   ![image](https://user-images.githubusercontent.com/26885598/139285466-0409ff8b-cc84-4742-874c-3d6a2eeef4f7.png)
   
 ### React Music
   
-🇧🇷️ Uma versão do Angular Music, porém feita em ReactJS. Embora possa parecer que a versão do meu aplicativo de música em React tenha ficado melhor que sua versão em Angular (ou vice-versa), ao menos visualmente, isso não se deve ao fato de um ser melhor ou pior que o outro. O que ocorre, na verdade, é que na versão em Angular usei CSS puro para estilizar a página, enquanto que na versão React optei por usar o framework Materialize. <br>🇺🇸️ Another version of Angular Music, but made in ReactJS this time. Even though it might seem that the React version of my music app turned out being better than its Angular version (or the other way around), at least visually, it doesn't necessarily mean that one is better or worse than the other. The truth is that I used pure CSS to style the page in the Angular version whereas I decided to use the Materialize framework in the React version.
-  
-🇧🇷️ NOTA 01/11/2021: O projeto está quase 90% completo! Só preciso corrigir o CSS para torná-lo mais responsivo e fazê-lo aparecer bem em qualquer tamanho de tela.
-<br>🇺🇸️UPDATE 01/11/2021: The project is almost 90% complete! I only have to fix it's CSS to make it more responsive and good-looking regardless of the screen size.
+🇧🇷️ Uma versão do Angular Music, porém feita em ReactJS.. NOTA 01/11/2021: O projeto está quase 90% completo! Só preciso corrigir o CSS para torná-lo mais responsivo e fazê-lo aparecer bem em qualquer tamanho de tela.
+<br>🇺🇸️ Another version of Angular Music, but made in ReactJS this time. UPDATE: 01/11/2021: The project is almost 90% complete! I only have to fix it's CSS to make it more responsive and good-looking regardless of the screen size.
   
 - [VERSÃO BETA/BETA VERSION](https://appreactmusic.firebaseapp.com/?96206)
 
