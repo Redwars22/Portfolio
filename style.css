@@ -1,11 +1,16 @@
 @import url(https://fonts.googleapis.com/css2?family=Fira+Mono:wght@100;200;300;400;500;600;700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Sunshiney&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap);
 
 body {
     padding: 25px 0px 25px 0px;
+    background-image: url('https://gifimage.net/wp-content/uploads/2017/10/circuit-gif-6.gif');
+    background-size: cover;
 }
 
 .blogHeader {
     display: grid;
+    grid-template-columns: 90% 10%;
     place-items: center;
     color: white;
 }
@@ -14,10 +19,16 @@ body {
     border-radius: 15px;
 }
 
+.personalInfoContainer {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 15px;
+}
+
 body, main, article, .langIcons {
     display: grid;
     place-items: center;
-    background-color: #1b2731;
+    /*background-color: #1b2731;*/
     font-family: 'Fira Mono', monospace;
 }
 
@@ -26,12 +37,14 @@ p, h1, h2, h5, strong, em {
 }
 
 .about {
-    width: 75%;
+    width: 65%;
     text-align: center;
+    font-size: 15px;
 }
 
 .linkIcon {
     border-radius: 20px;
+    margin: 5px;
 }
 
 .linkIcon:hover {
@@ -66,6 +79,9 @@ a {
 
 .linkBox {
     margin: 25px;
+    display: grid;
+    grid-template-rows: repeat(5, auto);
+    place-items: center;
 }
 
 hr {
@@ -104,4 +120,23 @@ hr {
 
 .el {
     margin: 10px;
+}
+
+.name {
+    font-family: 'East Sea Dokdo', handwriting;
+    font-size: 45px;
+}
+
+.description {
+    font-family: 'East Sea Dokdo', handwriting;
+    font-size: 25px;
+}
+
+header, main, footer {
+    background-color: rgba(11, 44, 5, 0.384);
+    border-radius: 10px;
+}
+
+header {
+    background-color: rgba(3, 54, 20, 0.664);
 }
